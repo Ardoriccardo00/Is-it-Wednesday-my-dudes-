@@ -82,5 +82,14 @@
   <ItemGroup>
     <None Include="Resources\downloaaaaaaaaaaad.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iiwmd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yes it is.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_xp_bliss-wide.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
